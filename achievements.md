@@ -2,8 +2,6 @@
 
 ## MongoDB Basics for Students
 
-![MongoDB Basics Badge](certifications-and-badges/mongodb-basics.png)
-
 **Issued to:** Daniel Rai  
 **Date Issued:** August 9, 2025
 
